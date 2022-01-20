@@ -9,7 +9,7 @@ if(empty($dema)) {
 } else if(empty($bem)) { 
     echo 'Isi bem!\n'; 
 } else {
-/ set post fields
+
 $ = [
     'dema' => 5,
     'bem'   => 1,
